@@ -13,6 +13,3 @@ Hi, I’m Ramisa — a tech enthusiast exploring the world of data, cloud, and c
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RamisaM-byte/RamisaM-byte/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/RamisaM-byte/RamisaM-byte/output/github-snake.svg" />
 </picture>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
