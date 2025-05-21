@@ -15,4 +15,4 @@ Hi, I’m Ramisa — a tech enthusiast exploring the world of data, cloud, and c
 </picture>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
